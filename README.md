@@ -31,7 +31,7 @@ Todos os arquivos estão em `src/listadeexercicios100/`:
 ## 📄 Enunciados dos Exercícios
 
 Os enunciados de todos os 100 exercícios estão disponíveis em PDF no repositório.  
-Você pode acessá-los no arquivo [`Enunciados.pdf`].
+Você pode acessá-los no arquivo [`Enunciados.pdf`](./Enunciados.pdf).
 
 > O PDF contém todos os exercícios organizados por tópicos, com exemplos e instruções detalhadas para facilitar o entendimento.
 
